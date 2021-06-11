@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Bui Tuan Cuong
 - 👀 I’m interested in Automotive Technology and Automotive Software 
+- ⚓ My basic programming language is C/C++
 - 🌱 I’m currently learning Qt
 - 📫 Please contact with me through my email butucuong@gmail.com
 <!---
