@@ -3,7 +3,7 @@
 - 📖 I've learned Automotive Software Engineering at FUNIX, Viet Nam
 - 📖 I've learned Automotive Engineering Technology at Ho Chi Minh University of Technology and Education, Viet Nam
 - 👀 I’m interested in Automotive Technology and Automotive Software 
-- ⚓ My basic programming language is C/C++
+- ⚓ My basic programming language is C++
 - 🌱 I’m currently learning Qt
 - 📫 Please contact with me through my email butucuong@gmail.com
 <!---
